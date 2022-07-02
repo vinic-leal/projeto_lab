@@ -1,0 +1,6 @@
+#ifndef PROJETO_LAB_MENUVENDA_H
+#define PROJETO_LAB_MENUVENDA_H
+
+void MenuVenda();
+
+#endif //PROJETO_LAB_MENUVENDA_H
